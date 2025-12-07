@@ -99,7 +99,8 @@ If running on the same machine, use:
 
 - Server UI
 
-![WhatsApp Image 2025-12-07 at 00 49 48_4dde5402](https://github.com/user-attachments/assets/d48eb95d-2a7c-4a53-bb6d-ba37fd5a1021)
+![WhatsApp Image 2025-12-07 at 00 52 04_eb7bc5b7](https://github.com/user-attachments/assets/34a69035-0221-4990-aa31-67d933df9c4b)
+
 
 
 
